@@ -1,0 +1,63 @@
+@media screen and (max-width:378px) {
+    .d5-sm {
+        font-size: 1rem;        
+    }
+    .d6-sm {
+        font-size: 0.62rem;
+    }
+    .d5-smt {
+        margin-top: 2rem;        
+    }
+    .b-out-sm{
+        display: none;
+    }
+}
+
+/* When the browser is at least 600px and above */
+@media screen and (min-width: 378px) and (max-width: 576px) {
+    .d5-sm {
+        font-size: 1rem;        
+    }
+    .d6-sm {
+        font-size: 0.83rem;
+    }
+    .d5-smt {
+        margin-top: 1rem;
+        
+    }
+}
+
+
+@media  screen and (min-width: 576px) and (max-width: 768px) {
+    .d5-md {
+        font-size: 1.25rem;
+    }
+    .d6-md {
+        font-size: 1.03rem;
+    }
+}
+
+
+
+/* cuando sea menor o igual a 378px */
+/* @media screen and (max-width:378px) {
+    .d5-sm {
+        font-size: 1rem;        
+    }
+    .d6-sm {
+        font-size: 0.83rem;
+    }
+    .d5-smt {
+        margin-top: 1rem;
+        
+    }
+}
+
+@media  screen and (min-width: 378px) and (max-width: 576px) {
+    .d5-md {
+        font-size: 1.25rem;
+    }
+    .d6-md {
+        font-size: 1.03rem;
+    }
+} */
